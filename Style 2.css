@@ -1,0 +1,41 @@
+table{
+    width:100%;
+}
+h1{
+    text-align:center;
+}
+td,th{
+    border:2px solid black;
+    width:14.27%;
+}
+th{
+    padding:8px 0;
+    background-color: #b90cd5;
+    color: #edb8ff;
+}
+td{
+    font-weight:bold;
+    font-size:24px;
+    padding-bottom:32px;
+    height:77px
+}
+.weekend{
+    background-color: #742fb4;
+    color: #b2a1e1;
+}
+.late{
+    background-color: #8d30a6;
+    color: #e1a1cf;
+}
+.yes{
+background-color: #d9b11f;
+    color: #f6eac4;
+}
+.min{
+    background-color: #161421;
+    color: #2e2765;
+}
+.regular{
+    background-color: #f6eac4;
+    color: #ada48f;
+}
